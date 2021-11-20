@@ -2,7 +2,7 @@
 
 ## Description
 
-Simply Recipes is an android application that is designed to deliver homely and simplerecipes to its users. Users are able to search for recipes or get recommended recipesbased on the available ingredients the users have. The recipes are gathered from onlineand the users are able to filter their search based on: methods of cooking, meal type,cuisine, and calories, etc. The users will also get recommended recipes based on thepopularity. The initial focus will be the design and implementation of primaryfunctionality; users see lists of recipes based on the available ingredients.
+Simply Recipes is an android application that is designed to deliver homely and simplerecipes to its users. Users are able to search for recipes or get recommended recipesbased on the available ingredients the users have. The recipes are gathered from online and the users are able to filter their search based on: methods of cooking, meal type,cuisine, and calories, etc. The users will also get recommended recipes based on the popularity. The initial focus will be the design and implementation of primary functionality; users see lists of recipes based on the available ingredients.
 
 ---
 
